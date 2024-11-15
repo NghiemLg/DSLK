@@ -152,6 +152,7 @@ int main() {
             case 0: {
                 std::cout << "Thoát chương trình.\n";
                 break;
+                
             }
             default: {
                 std::cout << "Lựa chọn không hợp lệ. Vui lòng chọn lại.\n";
